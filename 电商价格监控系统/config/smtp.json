@@ -1,0 +1,9 @@
+{
+  "server": "smtp.example.com",
+  "port": 465,
+  "use_ssl": true,
+  "user": "your_email@example.com",
+  "password": "your_password",
+  "from": "your_email@example.com",
+  "to": "recipient@example.com"
+}

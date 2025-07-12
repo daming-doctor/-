@@ -1,0 +1,92 @@
+[
+  {
+    "asin": "B0815JJQQB",
+    "title": "示例商品1",
+    "url": "https://www.amazon.com/dp/B0815JJQQB",
+    "price": 18.0,
+    "success": 0,
+    "error": 0,
+    "status": 0,
+    "frequency": 300
+  },
+  {
+    "asin": "B0815JJQQ9",
+    "title": "示例商品2",
+    "url": "https://www.amazon.com/dp/B0815JJQQ9",
+    "price": 19.0,
+    "success": 0,
+    "error": 0,
+    "status": 0,
+    "frequency": 300
+  },
+  {
+    "asin": "B0DSXP7WXT",
+    "title": "Owala FreeSip Twist Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 18-oz, Blue/Grey (Foggy Tide)",
+    "url": "https://www.amazon.com/gp/product/B0DSXP7WXT",
+    "price": 21.58,
+    "success": 2,
+    "error": 0,
+    "status": 1,
+    "frequency": 5
+  },
+  {
+    "asin": "B0BH9DBYYP",
+    "title": "",
+    "url": "https://www.amazon.com/dp/B0BH9DBYYP",
+    "price": 37.54,
+    "success": 0,
+    "error": 0,
+    "status": 0,
+    "frequency": 5
+  },
+  {
+    "asin": "B0757JZQ37",
+    "title": "S'well Stainless Steel Water Bottle, 17oz, Azurite, Triple Layered Vacuum Insulated Containers Keeps Drinks Cold for 36 Hours and Hot for 18, BPA Free, Perfect for On the Go",
+    "url": "https://www.amazon.com/gp/product/B0757JZQ37",
+    "price": 34.85,
+    "success": 2,
+    "error": 0,
+    "status": 1,
+    "frequency": 5
+  },
+  {
+    "asin": "B01M4LZBZH",
+    "title": "S'well Stainless Steel Water Bottle, 25oz, Neptune, Triple Layered Vacuum Insulated Containers Keeps Drinks Cold for 48 Hours and Hot for 24, BPA Free, Perfect for On the Go",
+    "url": "https://www.amazon.com/gp/product/B01M4LZBZH",
+    "price": 46.25,
+    "success": 2,
+    "error": 0,
+    "status": 1,
+    "frequency": 5
+  },
+  {
+    "asin": "B08HP8WGXY",
+    "title": "S'well Stainless Steel Water Bottle With Travel Handle - 17 Fl Oz - Onyx - Triple-Layered Vacuum-Insulated Containers Keeps Drinks Cold for 41 Hours and Hot for 18 - with No Condensation",
+    "url": "https://www.amazon.com/gp/product/B08HP8WGXY",
+    "price": 37.92,
+    "success": 2,
+    "error": 0,
+    "status": 1,
+    "frequency": 5
+  },
+  {
+    "asin": "B0DSWS3CV9",
+    "title": "Owala FreeSip Twist Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 18-oz, Purple (California Grapevine)",
+    "url": "https://www.amazon.com/gp/product/B0DSWS3CV9",
+    "price": 21.58,
+    "success": 2,
+    "error": 0,
+    "status": 1,
+    "frequency": 5
+  },
+  {
+    "asin": "B077FYT17Z",
+    "title": "S'well Stainless Steel Water Bottle, 17oz, Moonstone, Triple Layered Vacuum Insulated Containers Keeps Drinks Cold for 36 Hours and Hot for 18, BPA Free, Perfect for On the Go",
+    "url": "https://www.amazon.com/gp/product/B077FYT17Z",
+    "price": 35.0,
+    "success": 2,
+    "error": 0,
+    "status": 1,
+    "frequency": 5
+  }
+]
